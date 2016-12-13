@@ -1,0 +1,36 @@
+#header{
+    background-color: greenyellow;
+    height: 100px;
+    
+}
+
+#content {
+    float: left;
+    background-color:yellowgreen;
+    height: 1000px;
+    width 70%;
+    
+}
+
+
+#main {
+    display: block;
+    
+}
+
+#sidebar {
+    float: right;
+    background-color: red;
+    width 30%;
+    height: 1000px;
+    
+}
+
+#youtube {
+    background-color: aquamarine;
+    height: 50%;
+}
+#tweets {
+    background-color: aqua;
+    height 75%;
+}
