@@ -33,3 +33,28 @@ li a:hover {
     .active {
     background-color: #4CAF50;
 }
+
+#header {background-color: cyan;
+
+height: 100px;
+text-align: center;
+    padding-top: 20px;
+}
+
+
+#main {width:100%;
+background-color: aqua;
+    margin-left:auto;
+        margin-right:auto;
+
+}
+#article{background-color:lawngreen;
+    height: 100%;
+float: left;
+    width:60%;
+
+}
+#picture{height 100%;
+float: right;
+width:40%;
+}
